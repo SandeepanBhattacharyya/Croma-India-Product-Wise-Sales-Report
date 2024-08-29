@@ -132,7 +132,7 @@ b. `Main Query (SELECT...)`:
 
 ### 4. Output Received:
 
-<img src="https://github.com/SandeepanBhattacharyya/Croma-India-Product-Wise-Sales-Report/blob/main/main_query.png" class="center">
+<img src="https://github.com/SandeepanBhattacharyya/Croma-India-Product-Wise-Sales-Report/blob/main/Result1.png" class="center">
 ____________________________________________________________________________________________
 
 ## Enhancement to handle multiple customers:
@@ -171,4 +171,4 @@ Stored procs return multiple formats like 1 value, multiple value or tables (lik
 
 - ## Project Outcome
 
-This report enables data-driven decision-making, allowing stakeholders to answer various "why" questions based on different scenarios.
+- The Croma India Product Wise Sales Report successfully provides an aggregated monthly sales report at the product code level for the fiscal year 2021. Leveraging SQL, including CTEs and stored procedures, the report enhances data-driven decision-making for stakeholders at AtliQ Hardware. This analysis enables comprehensive product performance tracking and supports further product analysis. Additionally, the stored procedures allow efficient handling of multiple customer queries, streamlining the process and ensuring consistent, accurate data retrieval.
